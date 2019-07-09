@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFEODebugger", "IFEODebugger.csproj", "{340D61FD-EF4C-4466-8772-AAAE36DE3CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340D61FD-EF4C-4466-8772-AAAE36DE3CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340D61FD-EF4C-4466-8772-AAAE36DE3CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340D61FD-EF4C-4466-8772-AAAE36DE3CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340D61FD-EF4C-4466-8772-AAAE36DE3CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D4DFC2-9D90-450D-ADF3-9B60D07AAC86}
+	EndGlobalSection
+EndGlobal
